@@ -1,1 +1,1 @@
-https://openweathermap.org/
+API https://openweathermap.org/
